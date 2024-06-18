@@ -1,6 +1,10 @@
 # Cyneuro micro:bit Projects
 A collection of microbit projects from the cyneuro lab.
 
+# ** IMPORTANT ** 
+Please copy the python code into the microbit python editor (best if in the Chrome browser) and flash the code to the microbit from there.
+[Link text](https://python.microbit.org/v/3)
+
 ## Movement Classification
 ### Instructions
 1. Attach the microbit to your shoe.
